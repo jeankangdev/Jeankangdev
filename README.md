@@ -18,7 +18,7 @@
   </code>
 </h5>
 
-<p>
+<p align="center">
   🎓 I'm graduating from Seneca College's Computer Programming & Analysis.
   <br>
   💻 I love writing code and creating beautiful web & mobile applications.
