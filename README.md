@@ -1,4 +1,3 @@
-### Hi, I'm Yuna 👋
-
-:computer: Developing in JavaScript, HTML, CSS, Vue, React and Angular.
-🔭 Seeking 2021 summer coop in Toronto or Vancouver
+### Hi, I'm Yuna 👋      
+:computer: I'm currently developing in JavaScript, HTML, CSS, Vue, React and Angular.   
+🔭 I'm Seeking 2021 summer coop in Toronto or Vancouver.
