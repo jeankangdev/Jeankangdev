@@ -1,3 +1,50 @@
-### Hi, I'm Yuna 👋      
-:seedling: Developing in JavaScript, HTML, CSS, Vue, React and Angular.      
-:bulb:  Seeking 2021 summer coop in Toronto / Vancouver.
+<h2 align="center">
+  Hi, I'm Yuna 👋
+</h2>
+
+<p align="center">
+  A front-end developer from South Korea!
+</p>
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/yunakang" title="linkedin"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/linkedin.svg"> LinkedIn</a>
+  </code>
+  <code>
+    <a href="https://www.society6.com/orange_sage" title="society6"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/society6.svg"> Society6</a>
+  </code>
+  <code>
+    <a href="https://www.instagram.com/yunaineworld" title="instagram"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/instagram.svg"> Instagram</a>
+  </code>
+</h5>
+
+<p>
+  🎓 I'm graduating from Seneca College's Computer Programming & Analysis.
+  <br>
+  💻 I love writing code and creating beautiful web & mobile applications.
+  <br>
+  🌱 I’m currently seeking 2021 Summer Co-op in Toronto or Vancouver.
+  <br>
+</p>
+
+<h2 align="center">
+  Languages & Frameworks
+</h2>
+
+<p align="center">
+  <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
+  <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+  <code><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></code>
+  <code><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
+</p>
