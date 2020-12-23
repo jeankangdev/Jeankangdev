@@ -28,10 +28,13 @@
   <br>
 </p>
 
+***
+
 <h2 align="center">
   Languages & Frameworks
 </h2>
 
+<br>
 <p align="center">
   <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
   <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>
