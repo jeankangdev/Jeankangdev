@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/yunakang" title="linkedin"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/linkedin.svg"> LinkedIn</a>
   </code>
   <code>
-    <a href="https://www.society6.com/orange_sage" title="society6"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/society6.svg"> Society6</a>
+    <a href="https://www.society6.com/orangesage" title="society6"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/society6.svg"> Society6</a>
   </code>
   <code>
     <a href="https://www.instagram.com/yunaineworld" title="instagram"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/instagram.svg"> Instagram</a>
