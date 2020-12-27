@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  A front-end developer from South Korea!
+  A front-end developer currently residing in Toronto, Canada.
 </p>
 
 <h5 align="center">
