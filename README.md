@@ -20,11 +20,9 @@
 
 <p align="center">
   <br>
-  🎓 I'm graduating from Seneca College's Computer Programming Program.
+  💻 I'm graduating from Seneca College's Computer Programming Program.
   <br>
-  💻 I love writing code and creating beautiful web & mobile applications.
-  <br>
-  🌱 I’m currently seeking 2021 Summer Co-op in Toronto or Vancouver.
+  🌱 I am currently seeking 2021 Summer co-op in Toronto or Vancouver.
   <br>
 </p>
 
