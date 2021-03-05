@@ -14,7 +14,7 @@
     <a href="https://www.society6.com/orangesage" title="society6"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/society6.svg"> Society6</a>
   </code>
   <code>
-    <a href="https://www.instagram.com/yunaineworld" title="instagram"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/instagram.svg"> Instagram</a>
+    <a href="https://www.instagram.com/jeanjeankang" title="instagram"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/instagram.svg"> Instagram</a>
   </code>
 </h5>
 
