@@ -22,7 +22,7 @@
   <br>
   💻 I'm graduating from Seneca College's Computer Programming Program.
   <br>
-  🌱 I am currently seeking 2021 Summer co-op in Toronto or Vancouver area.
+  🌱 I am currently seeking 2021 Fall co-op in Toronto or Vancouver area.
   <br>
 </p>
 
