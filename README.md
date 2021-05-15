@@ -52,3 +52,18 @@
   <code><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></code>
   <code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
 </p>
+
+
+***
+
+<h2 align="center">
+  Interest
+</h2>
+
+<br>
+<p align="center">
+  Custom electronics - Laptop, smart home devices (Raspberry Pi)<br>
+  Drawing, painting, baking ceramics, swimming, camping<br>
+  Pixel art, Graphic design, product design, branding<br>
+</p>
+
