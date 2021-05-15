@@ -62,7 +62,7 @@
 
 <br>
 <p align="center">
-  Custom electronics - Laptop, smart home devices (Raspberry Pi)<br>
+  Custom electronics & smart home devices (Raspberry Pi)<br>
   Drawing, painting, baking ceramics, swimming, camping<br>
   Pixel art, Graphic design, product design, branding<br>
 </p>
