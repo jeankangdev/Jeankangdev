@@ -22,7 +22,7 @@
   <br>
   💻 I'm graduating from Seneca College's Computer Programming Program.
   <br>
-  🌱 I'm currently seeking 2021 fall co-op in Toronto or Vancouver area.
+  🌱 Currently seeking 2021 fall co-op in Toronto or Vancouver area for growth.
   <br>
 </p>
 
@@ -67,3 +67,4 @@
   Pixel art, Graphic design, product design, branding<br>
 </p>
 
+***
