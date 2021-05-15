@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  A front-end developer currently residing in Toronto, Canada.
+  An artistic, detail-oriented, and passionate software developer residing in Toronto, Canada.
 </p>
 
 <h5 align="center">
@@ -22,7 +22,7 @@
   <br>
   💻 I'm graduating from Seneca College's Computer Programming Program.
   <br>
-  🌱 I am currently seeking 2021 Fall co-op in Toronto or Vancouver area.
+  🌱 I'm currently seeking 2021 fall co-op in Toronto or Vancouver area.
   <br>
 </p>
 
