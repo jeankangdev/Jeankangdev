@@ -6,17 +6,17 @@
   An artistic, detail-oriented, and passionate software developer residing in Toronto, Canada.
 </p>
 
-<h5 align="center">
+<!-- <h5 align="center">
   <code>
-<!--     <a href="https://www.linkedin.com/in/jeankangdev" title="linkedin"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/linkedin.svg"> LinkedIn</a> -->
+    <a href="https://www.linkedin.com/in/jeankangdev" title="linkedin"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/linkedin.svg"> LinkedIn</a>
   </code>
   <code>
-<!--     <a href="https://www.society6.com/orangesage" title="society6"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/society6.svg"> Society6</a> -->
+    <a href="https://www.society6.com/orangesage" title="society6"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/society6.svg"> Society6</a>
   </code>
   <code>
-<!--     <a href="https://www.instagram.com/jeanjeankang" title="instagram"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/instagram.svg"> Instagram</a> -->
+    <a href="https://www.instagram.com/jeanjeankang" title="instagram"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/instagram.svg"> Instagram</a>
   </code>
-</h5>
+</h5> -->
 
 <p align="center">
   <br>
