@@ -20,7 +20,7 @@
 
 <p align="center">
   <br>
-  ✨ I'd like to use my marketing and design background along with computer programming skills to build 
+  ✨ I'd like to use my digital marketing and graphic design background along with my computer programming skills to build 
   <br>
   applications that are not only functioning well, but are also meaningful and aestetically pleasing to attractive lots of users.
   <br>
