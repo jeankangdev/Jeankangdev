@@ -6,23 +6,23 @@
   An artistic, detail-oriented, and passionate software developer residing in Toronto, Canada.
 </p>
 
-<!-- <h5 align="center">
+<h5 align="center">
   <code>
-    <a href="" title="linkedin"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/linkedin.svg"> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/jeankangdev/" title="linkedin"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/linkedin.svg"> LinkedIn</a>
   </code>
   <code>
-    <a href="" title="society6"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/society6.svg"> Society6</a>
+    <a href="https://society6.com/orangesage" title="society6"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/society6.svg"> Society6</a>
   </code>
-  <code>
+<!--   <code>
     <a href="" title="instagram"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/instagram.svg"> Instagram</a>
-  </code>
-</h5> -->
+  </code> -->
+</h5>
 
 <p align="center">
   <br>
-  💻 I'm graduating from Seneca College's Computer Programming Program.
+  💻 I believe branding, design, and coding are another way of art.
   <br>
-  🌱 Currently seeking 2021 fall co-op in Toronto or Vancouver area for growth.
+ ✨ I'd like to use my marketing and design background along with computer programming skills to build applications that are not only functioning well, but are also meaningful and aestetically pleasing to attractive lots of users.
   <br>
 </p>
 
