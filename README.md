@@ -22,7 +22,7 @@
   <br>
   I would like to use my digital marketing and graphic design background along with 
   <br>
-  my computer programming skills to build applications that are not only functioning well, 
+  my computer programming skills to build applications that not only function well, 
   <br>
   but are also meaningful and aestetically pleasing to attract lots of users.
   <br>
