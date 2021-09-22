@@ -13,16 +13,16 @@
   <code>
     <a href="https://society6.com/orangesage" title="society6"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/society6.svg"> Society6</a>
   </code>
-<!--   <code>
-    <a href="" title="instagram"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/instagram.svg"> Instagram</a>
-  </code> -->
+  <code>
+    <a href="https://www.instagram.com/jeantobeige/" title="instagram"><img width="22" src="https://github.com/yunakang/yunakang/blob/main/images/instagram.svg"> Instagram</a>
+  </code>
 </h5>
 
 <p align="center">
   <br>
-  💻 I believe branding, design, and coding are another way of art.
+  ✨ I'd like to use my marketing and design background along with computer programming skills to build 
   <br>
- ✨ I'd like to use my marketing and design background along with computer programming skills to build applications that are not only functioning well, but are also meaningful and aestetically pleasing to attractive lots of users.
+  applications that are not only functioning well, but are also meaningful and aestetically pleasing to attractive lots of users.
   <br>
 </p>
 
