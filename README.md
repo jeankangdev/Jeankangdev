@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  An artistic, detail-oriented, and passionate software developer residing in Toronto, Canada.
+  An artistic, detail-oriented, and passionate Software Developer residing in Toronto, Canada.
 </p>
 
 <h5 align="center">
