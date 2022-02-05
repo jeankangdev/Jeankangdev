@@ -20,9 +20,9 @@
 
 <p align="center">
   <br>
-  I would like to use my Digital Marketing and Graphic Design background along with 
+  I would like to use my Digital Marketing and UX/UI Design background along with 
   <br>
-  my Computer Programming skills to build applications that not only function well, 
+  Computer Programming skills to build applications that not only function well, 
   <br>
   but are also meaningful and aestetically pleasing to attract lots of users.
   <br>
