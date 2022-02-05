@@ -8,13 +8,13 @@
 
 <h5 align="center">
   <code>
+  <a href="https://jean-kang.herokuapp.com" title="instagram"><img width="22" src="https://github.com/jeankangdev/jeankangdev/blob/main/images/portfolio.PNG"> Portfolio</a>
+  </code>
+  <code>
     <a href="https://www.linkedin.com/in/jeankangdev/" title="linkedin"><img width="22" src="https://github.com/jeankangdev/jeankangdev/blob/main/images/linkedin.svg"> LinkedIn</a>
   </code>
   <code>
     <a href="https://society6.com/orangesage" title="society6"><img width="22" src="https://github.com/jeankangdev/jeankangdev/blob/main/images/society6.svg"> Society6</a>
-  </code>
-  <code>
-    <a href="https://jean-kang.herokuapp.com" title="instagram"><img width="22" src="https://github.com/jeankangdev/jeankangdev/blob/main/images/portfolio.PNG"> Portfolio</a>
   </code>
 </h5>
 
