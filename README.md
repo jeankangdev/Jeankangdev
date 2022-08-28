@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-  <a href="https://yuna-kang.herokuapp.com" title="instagram"><img width="22" src="https://github.com/yunakangdev/yunakangdev/blob/main/images/portfolio.PNG"> Portfolio</a>
+  <a href="https://jean-kang.herokuapp.com" title="instagram"><img width="22" src="https://github.com/yunakangdev/yunakangdev/blob/main/images/portfolio.PNG"> Portfolio</a>
   </code>
   <code>
     <a href="https://www.linkedin.com/in/yunakangdev/" title="linkedin"><img width="22" src="https://github.com/yunakangdev/yunakangdev/blob/main/images/linkedin.svg"> LinkedIn</a>
