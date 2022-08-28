@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi, I'm Jean 👋
+  Hi, I'm Yuna 👋
 </h2>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://jean-kang.herokuapp.com" title="instagram"><img width="22" src="https://github.com/jeankangdev/jeankangdev/blob/main/images/portfolio.PNG"> Portfolio</a>
   </code>
   <code>
-    <a href="https://www.linkedin.com/in/jeankangdev/" title="linkedin"><img width="22" src="https://github.com/jeankangdev/jeankangdev/blob/main/images/linkedin.svg"> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/yunakangdev/" title="linkedin"><img width="22" src="https://github.com/jeankangdev/jeankangdev/blob/main/images/linkedin.svg"> LinkedIn</a>
   </code>
   <code>
     <a href="https://society6.com/orangesage" title="society6"><img width="22" src="https://github.com/jeankangdev/jeankangdev/blob/main/images/society6.svg"> Society6</a>
